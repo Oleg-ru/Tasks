@@ -1,6 +1,5 @@
-# Tasks
-problem solving
-My Solved tasks
-resources:
--codewars
--leetcode
+### Problem solving
+<br>My Solved tasks
+<br>resources:
+- codewars
+- leetcode
